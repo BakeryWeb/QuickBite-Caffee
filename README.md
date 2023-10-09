@@ -19,5 +19,3 @@
   - Responsive 4-parts footer
   - To-Top Button 
   - Transition Effects
-
-### Live Demo : https://az-coffeeshop.netlify.app/
